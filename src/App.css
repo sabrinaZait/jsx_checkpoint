@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  background-color:rgb(197, 185, 185)
 }
-
+h2{
+  border: 1px solid yellow
+}
+button{
+  border: 1px dashed black;
+  background-color: rgb(236, 236, 104);
+  height: 50px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
